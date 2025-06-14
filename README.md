@@ -50,8 +50,8 @@ Harsha_Netflix_landing_page/
    ```
    
 4. **Run the project**
+   
    Simply open the index.html file in your browser.
-    
    You can right-click the file and choose "Open with Live Server" (if using VS Code with Live Server extension) or double-click the file.
 
     
